@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 8724,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://zz-fzn.njoodadel.volunteerapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.zz-fzn.njoodadel.volunteerapp.exp.direct",
+  "ngrokPid": 1612,
+  "webpackServerPort": null
+}
