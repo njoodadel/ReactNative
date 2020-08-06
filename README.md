@@ -1,3 +1,3 @@
 # ReactNative  
-VolunteerApp: Under development  
-Wafferly: Completed (Documentation)[Back-End Code](https://github.com/njoodadel/PHP)
+VolunteerApp: **Under Development**  
+Wafferly: **Completed** [Documentation](https://github.com/njoodadel/ReactNative/blob/master/Wafferly/Documentation%20.pdf) [Back-End Code](https://github.com/njoodadel/PHP)
